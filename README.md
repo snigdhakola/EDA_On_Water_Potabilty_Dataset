@@ -1,4 +1,3 @@
-Here’s a clean, professional “About this Project” you can use for your Water Potability GitHub repository (and in your README or LinkedIn):
 
 💧 **Water Potability Prediction Project**
 
